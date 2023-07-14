@@ -1,0 +1,42 @@
+
+*{
+    background-color: rgb(200, 210, 235);
+    padding: 0;
+    margin: 0;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+   
+table {
+    align-self: center;
+    border: 0px;
+   
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-family:sans-serif cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+    
+button{
+    align-self: center;
+    background-color: antiquewhite;
+    border-radius: 3px;
+    font-size: large;
+}
+
+
+td{
+    width: 100px;
+    height: 100px;
+    background: black;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+    font-size: 3rem;
+}
